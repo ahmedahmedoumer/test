@@ -1,1 +1,2 @@
-  echo "ahmedin oumer";
+  echo "ahmedin oumer"; 
+   echo  "hello ahmedin";
