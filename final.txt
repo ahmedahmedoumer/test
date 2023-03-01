@@ -1,1 +1,12 @@
+<<<<<<< HEAD
  hello i am final.txt file
+=======
+  hello i am final.txt file
+   
+
+    a'm modified by branche1
+
+    a'm also modified by master
+
+finall i am commited by branche1
+>>>>>>> branche1
