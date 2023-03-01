@@ -1,0 +1,4 @@
+how to check the file between two different branches using git diff
+
+
+hello this modification is assign to master branch !! 
